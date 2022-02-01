@@ -1,0 +1,101 @@
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Tangerine', cursive;
+font-family: 'Taviraj', serif;
+font-family: 'Work Sans', sans-serif;
+font-family: 'Yellowtail', cursive; */
+*{
+    padding: 0;
+    margin: 0;
+}
+/* .text-center{
+    text-align: center;
+} */
+
+
+.heder-div{
+    background-color: black;
+}
+.font-change{
+    background-color: #047504;
+    font-family: 'Yellowtail';
+    font-weight: 500;
+    color: white;
+    font-size: 60px;
+}
+.sup-heading{
+    color: white;
+    background-color: #0b1979;
+    font-weight: 100;
+}
+.span1{
+    color:#d55f5f ;
+    font-size: 50px;
+}
+.span2{
+    color:#84c6f3 ;
+    font-size: 50px;
+}
+
+.learn-about-heading{
+    background-color: #834646;
+    font-size: 60px;
+    font-family: 'Yellowtail';
+    font-weight: 600;
+
+}
+.About-section{
+    
+}
+.paragraph-section{
+    background-color: #eeeeee;
+}
+
+/* Service- section */
+
+.service-section{
+    background-color: #eeeeee;
+}
+.Service-h1{
+    background-color: #297a48;
+    font-size: 70px;
+    font-weight: 100;
+}
+/* Contact section */
+
+
+.contact-sectionh1{
+ background-color:#0d6efd;
+ font-size: 40px;
+ font-weight: 100;
+}
+.contact-form{
+    background-color: #eeeeee;
+}
+
+/* last-section */
+
+
+.last-section{
+    color: white;
+    background-color: #4f84c4;
+}
+
+/* footer section */
+
+.footer{
+    color: white;
+    font-size: 30px;
+    background-color: black;
+
+}
+.font-change2{
+    font-family: 'Yellowtail';
+    font-size: 50px;
+    font-weight: 600;
+}
+.paragraph2{
+    font-size: 20px;
+    font-weight: 500
+}
